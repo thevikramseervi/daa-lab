@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class prg9 {
+class prg09 {
     static void floydWarshall(int[][] d) {
         int n = d.length;
         for (int k = 0; k < n; k++) {

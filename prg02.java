@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class prg2 {
+class prg02 {
     static int sortCount = 0;
 
     static int partition(int[] a, int left, int right) {

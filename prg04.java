@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class prg5 {
+class prg04 {
     static int n;
     static int[][] cost;
     static int[] indegree;

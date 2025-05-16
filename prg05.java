@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class prg5 {
+public class prg05 {
 
     static void prim(int[][] cost, int n, int source) {
         int[] tvertex = new int[n];

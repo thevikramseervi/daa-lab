@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class prg3 {
+public class prg03 {
 
     static int sortCount = 0;
 

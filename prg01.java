@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class prg1 {
+class prg01 {
 	static int searchCount = 0;
 	static int sortCount = 0;
 

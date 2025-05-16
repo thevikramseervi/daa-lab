@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class prg8 {
+public class prg08 {
 
     static int minDistance(int[] dist, boolean[] visited) {
         int min = Integer.MAX_VALUE, minIndex = -1;

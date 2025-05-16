@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class prg7 {
+class prg07 {
 
     static void kruskal(int[][] cost, int n) {
         int[] par = new int[n];

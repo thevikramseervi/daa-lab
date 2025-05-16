@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class prg6 {
+public class prg06 {
     static int n;
     static int m;
     static int[] w;
